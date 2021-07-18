@@ -1,15 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <bits/stdc++.h>
-//#include <iostream>
-//#include <cstring>
-//#include <vector>
-//#include <cmath>
-//#include <algorithm>
-//#include <string>
-//#include <climits>
-//#include <bitset>
-//#include <queue>
-//#include <map>
 
 #define rep(i, n) for(int i = 0; i < (n); i++)
 
